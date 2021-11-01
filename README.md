@@ -73,8 +73,7 @@ if False:
 and before anyone asks Yes the `if False` HAS to be there because you can't actually import definition files into normal python files. this is a hack to get the IDE to load the definitions of from a file.
 after these two line, you are free to write Processing code as usual. see Example.py.
 
-    
-// push test
+
     
     
 

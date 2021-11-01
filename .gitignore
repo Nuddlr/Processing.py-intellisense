@@ -125,3 +125,8 @@ dmypy.json
 .pyre/
 .idea/
 
+# Personal projects
+Art/
+Sound/
+Tutorial/
+
