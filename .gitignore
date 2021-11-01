@@ -126,7 +126,7 @@ dmypy.json
 .idea/
 
 # Personal projects
-Art/
-Sound/
-Tutorial/
+/Art
+/Sound
+/Tutorial
 
